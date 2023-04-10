@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Em",
+				"employee_details"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"backga",
+				"background-image\tproperty"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"text",
+				"textfield"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bacground",
+				"background-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Management/table3.php",
+		"/C/xampp/htdocs/Management/table1.php",
+		"/C/xampp/htdocs/Management/address.php",
+		"/C/xampp/htdocs/Management/academic.php",
+		"/C/xampp/htdocs/Management/deleteaddress.php",
+		"/C/xampp/htdocs/Management/deleteacademic.php",
+		"/C/xampp/htdocs/Management/viewaddress.php",
+		"/C/xampp/htdocs/Management/list.php",
+		"/C/xampp/htdocs/Management/updateaddress.php",
+		"/C/xampp/htdocs/Internship/updateaddress.php",
+		"/C/xampp/htdocs/Management/connection1.php",
+		"/C/xampp/htdocs/Internship/academicview.php",
+		"/C/xampp/htdocs/Management/academic.sublime-project",
+		"/C/xampp/htdocs/Management/updatepersonal.php",
+		"/C/xampp/htdocs/Management/personallist.php",
+		"/C/xampp/htdocs/Management/department.php",
+		"/C/xampp/htdocs/Management/navbar.php",
+		"/C/xampp/htdocs/Management/style3.css",
+		"/C/xampp/htdocs/Management/personaldelete.php",
+		"/C/xampp/htdocs/Management/delete.php",
+		"/C/xampp/htdocs/Management/update.php",
+		"/C/xampp/htdocs/Management/style2.css",
+		"/C/xampp/htdocs/Management/table.php",
+		"/C/xampp/htdocs/Management/newfile.php",
+		"/C/xampp/htdocs/Management/personal_details.php",
+		"/C/xampp/htdocs/Internship/personaltable.php",
+		"/C/xampp/htdocs/Internship/personalinfo.php",
+		"/C/xampp/htdocs/Internship/login.php",
+		"/C/xampp/htdocs/Internship (1)/Internship/index.php",
+		"/C/xampp/htdocs/Internship (1)/Internship/delete.php",
+		"/C/xampp/htdocs/Management/deletepersonal.php",
+		"/C/xampp/htdocs/Internship/Internship/address.php",
+		"/C/xampp/htdocs/Internship (1).zip",
+		"/C/xampp/htdocs/Internship/Internship/collegeinfo.php",
+		"/C/xampp/htdocs/Internship/Internship/dropdown.php",
+		"/C/xampp/htdocs/Management/style1.css",
+		"/C/xampp/htdocs/Management/form1.php",
+		"/C/xampp/htdocs/Management/updateprsnldtl.php",
+		"/C/xampp/htdocs/Management/dalli.php",
+		"/C/xampp/htdocs/Management/employee.jpg",
+		"/C/xampp/htdocs/Management/sabi.php",
+		"/C/Users/HP/Downloads/input-masks.bsdesign",
+		"/C/xampp/htdocs/Management/save.php",
+		"/C/xampp/htdocs/project/project/view.php",
+		"/C/xampp/htdocs/Management/city.php",
+		"/C/xampp/htdocs/Management/ajax.php",
+		"/C/xampp/htdocs/Management/district.php",
+		"/C/xampp/htdocs/Internship/Internship/index.php",
+		"/C/xampp/htdocs/project/project/index.php",
+		"/C/xampp/htdocs/Management/navbar1.php",
+		"/C/xampp/htdocs/Internship/Internship/personalinfo.php",
+		"/C/xampp/htdocs/project/project/address.php",
+		"/C/xampp/htdocs/project/project/ajax.php",
+		"/C/xampp/htdocs/project/project/connection.php",
+		"/C/xampp/htdocs/project/project/education.php",
+		"/C/xampp/htdocs/Management/empaddress.php",
+		"/C/xampp/htdocs/Management/style.css",
+		"/C/xampp/htdocs/Emanagement/connection.php",
+		"/C/xampp/htdocs/Employee/form2.php",
+		"/C/Program Files/Sublime Text 3/form.php",
+		"/C/xampp/htdocs/Employee/form1.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/Emanagement/style.css",
+		"/C/xampp/htdocs/Emanagement/form1.php",
+		"/C/xampp/htdocs/Employee/form.php",
+		"/C/xampp/htdocs/Employee/style.css",
+		"/C/xampp/htdocs/Employee/connection.php",
+		"/C/xampp/htdocs/form5.php",
+		"/C/xampp/htdocs/form1.php",
+		"/C/Users/HP/Desktop/employee management/form.php",
+		"/C/Users/HP/Desktop/employee management/style.css",
+		"/C/Users/HP/Desktop/employee management/connection.php",
+		"/C/Users/HP/Desktop/sabi.html",
+		"/C/Users/HP/Desktop/employee management/index.html",
+		"/C/Users/HP/Documents/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 109.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Management.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
